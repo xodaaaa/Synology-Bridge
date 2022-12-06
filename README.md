@@ -1,12 +1,12 @@
-# Synology-Bridging
+# Synology-Bridge
 
-## Enable vSwitch bridging between two Ethernet ports on Synology NAS
+## Activacion y automatizacion de conexion puente usando 2 ethernet
 This script enables you to create a network bridge between two Ethernet ports on your Synology NAS.
 
 ## Prerequisite:
-DiskStation Manager Version >= 6.1
+DiskStation Manager Version >= 7.1
 
-A Synology NAS with at least two Ethernet ports
+Solo fue probado con 2 redes ethernet por ende esta modificado solo para esas
 
 Administrator account on DSM
 
