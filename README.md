@@ -1,7 +1,6 @@
 # Synology-Bridge
 
 ## Activacion y automatizacion de conexion puente usando 2 ethernet
-This script enables you to create a network bridge between two Ethernet ports on your Synology NAS.
 
 ## Prerequisite:
 DiskStation Manager Version >= 7.1
